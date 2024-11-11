@@ -4,8 +4,7 @@
 
 A robust, automated system enabling users to convert fiat (traditional currency) into USDC (a stablecoin) and seamlessly transfer it to their wallets. This system ensures secure distribution, accurate reconciliation, and efficient error handling for all fiat-to-USDC transactions.<br>
 **Documentation**- <a href="https://hackmd.io/@QYDbn8-FRVi8k3IdjrW95Q/CharterLabs_Task-2">hackmd </a> <br>
-**Flowchart**- <a href="https://excalidraw.com/#json=iu3rRUwQoXSSIZft2dWMy,aqT8-T9GBam5jqDR9T8hNg">excalidraw</a> 
-
+**Flowchart**- <a href="https://excalidraw.com/#json=dQs5USSZXBONk1MoSTmP1,PcgjDZ9r1ADzak-smSgeow">excalidraw</a> 
 
 ## Features
 - **Fiat-to-USDC Conversion**: Seamlessly converts fiat deposits into USDC.
